@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413282223741",
+    "project_id": "naouma-86231",
+    "storage_bucket": "naouma-86231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413282223741:android:4217aa4b10e17fbba05314",
+        "android_client_info": {
+          "package_name": "com.example.naouma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413282223741-auipml1f9898gaq0drpvmvinlpcnup9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQNMe69jjSYgyIUItZdYlBmCc34YRw4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413282223741-auipml1f9898gaq0drpvmvinlpcnup9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
