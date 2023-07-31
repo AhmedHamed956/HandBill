@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    }
+]

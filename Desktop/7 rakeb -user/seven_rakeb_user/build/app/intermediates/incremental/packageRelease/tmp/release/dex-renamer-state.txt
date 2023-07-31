@@ -1,0 +1,4 @@
+#Wed Jul 19 14:19:53 EET 2023
+base.0=/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

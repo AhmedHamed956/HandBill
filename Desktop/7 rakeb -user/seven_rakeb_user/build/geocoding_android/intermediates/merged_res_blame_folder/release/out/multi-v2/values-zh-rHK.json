@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geocoding_android/intermediates/merged_res/release/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/8a2e74e3f98e846f0780ad1b6ff8554b/transformed/core-1.6.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geocoding_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/8a2e74e3f98e846f0780ad1b6ff8554b/transformed/core-1.6.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

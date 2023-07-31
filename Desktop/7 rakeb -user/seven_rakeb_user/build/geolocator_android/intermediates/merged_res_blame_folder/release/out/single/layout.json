@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/d10be09cf1e7f8e5d153c23ac4716ce4/transformed/core-1.9.0/res/layout/custom_dialog.xml"
+    }
+]

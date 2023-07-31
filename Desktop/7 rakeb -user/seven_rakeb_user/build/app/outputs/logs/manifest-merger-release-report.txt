@@ -1,0 +1,372 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:24:4-57:19
+MERGED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-17:19
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-18:19
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-18:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/8938ced37b7ee56181ce4d01b700f9b1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/8938ced37b7ee56181ce4d01b700f9b1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/ahmed-hamed/.gradle/caches/transforms-3/bda1bd8cf3b3e548238cbedf19403499/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/ahmed-hamed/.gradle/caches/transforms-3/bda1bd8cf3b3e548238cbedf19403499/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/47a2748039695de3f72537f9b6c6e659/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/47a2748039695de3f72537f9b6c6e659/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:25:9-32
+	android:icon
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:27:9-43
+	android:name
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:26:9-42
+manifest
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+MERGED from [:permission_handler_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_maps_flutter_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/google_maps_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:geocoding_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geocoding_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/10db1fe4e5707ed2ca43e89144ed0f10/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/8938ced37b7ee56181ce4d01b700f9b1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/ahmed-hamed/.gradle/caches/transforms-3/bda1bd8cf3b3e548238cbedf19403499/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/9ddcf2f72c5335e1f987401e1a28d00f/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/56faf1924dc689b6a1f005795b69d5f9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/7f20beac89fd0c236f9fdb0a5aa43033/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/cb6b8e2fa87c344a3e50fa40be0fb6d9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/db2a222ff8bbdc4f07279a981b903bba/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/7dd2581b56171a7aa896532e74f7b8ee/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/ddc0646916fd375d3a8adc6d20f5ebf1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/47a2748039695de3f72537f9b6c6e659/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/d552b7336dae4c764e5c7da6e0def973/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e182b10e8a5c0b107eb8dda8b3297f18/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/4c9562980e1f94ba69c8a415908433ff/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/40d23071954e4a5e5fe394de42970aeb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/071a7978413a31835696da94472b5b64/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/19f9b7048ce34ad97d0dccad2a653d36/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/acac902d0b2371bfcd45eefc676ae721/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/bfcf015d764755abe4a63cbd530e11e5/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+	package
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:1-58:12
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:3:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:4:5-75
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:4:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:13:5-77
+MERGED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-77
+MERGED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:13:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:14:5-85
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:14:22-82
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:15:22-74
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:16:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:19:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:23:22-63
+uses-sdk
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+MERGED from [:permission_handler_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/google_maps_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/google_maps_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geocoding_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geocoding_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/10db1fe4e5707ed2ca43e89144ed0f10/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/10db1fe4e5707ed2ca43e89144ed0f10/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/8938ced37b7ee56181ce4d01b700f9b1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/8938ced37b7ee56181ce4d01b700f9b1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/ahmed-hamed/.gradle/caches/transforms-3/bda1bd8cf3b3e548238cbedf19403499/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/ahmed-hamed/.gradle/caches/transforms-3/bda1bd8cf3b3e548238cbedf19403499/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/9ddcf2f72c5335e1f987401e1a28d00f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/9ddcf2f72c5335e1f987401e1a28d00f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/56faf1924dc689b6a1f005795b69d5f9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/56faf1924dc689b6a1f005795b69d5f9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/7f20beac89fd0c236f9fdb0a5aa43033/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/7f20beac89fd0c236f9fdb0a5aa43033/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/cb6b8e2fa87c344a3e50fa40be0fb6d9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/cb6b8e2fa87c344a3e50fa40be0fb6d9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/db2a222ff8bbdc4f07279a981b903bba/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/db2a222ff8bbdc4f07279a981b903bba/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/7dd2581b56171a7aa896532e74f7b8ee/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/7dd2581b56171a7aa896532e74f7b8ee/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/ddc0646916fd375d3a8adc6d20f5ebf1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/ddc0646916fd375d3a8adc6d20f5ebf1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/47a2748039695de3f72537f9b6c6e659/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/47a2748039695de3f72537f9b6c6e659/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/d552b7336dae4c764e5c7da6e0def973/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/d552b7336dae4c764e5c7da6e0def973/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e182b10e8a5c0b107eb8dda8b3297f18/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e182b10e8a5c0b107eb8dda8b3297f18/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/4c9562980e1f94ba69c8a415908433ff/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/4c9562980e1f94ba69c8a415908433ff/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/40d23071954e4a5e5fe394de42970aeb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/40d23071954e4a5e5fe394de42970aeb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/071a7978413a31835696da94472b5b64/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/071a7978413a31835696da94472b5b64/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/19f9b7048ce34ad97d0dccad2a653d36/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/19f9b7048ce34ad97d0dccad2a653d36/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/acac902d0b2371bfcd45eefc676ae721/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/acac902d0b2371bfcd45eefc676ae721/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/bfcf015d764755abe4a63cbd530e11e5/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/bfcf015d764755abe4a63cbd530e11e5/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:28:9-30:71
+	android:value
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:30:13-68
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.example.seven_rakeb_user.MainActivity
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:31:9-51:20
+	android:launchMode
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:34:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:37:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:38:13-55
+	android:exported
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:33:13-36
+	android:configChanges
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:36:13-163
+	android:theme
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:35:13-47
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:32:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:43:13-46:17
+	android:resource
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:45:15-52
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:44:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:48:17-68
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:49:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:54:9-56:33
+	android:value
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:56:13-30
+	android:name
+		ADDED from /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/android/app/src/main/AndroidManifest.xml:55:13-44
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-77
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-17:56
+	android:enabled
+		ADDED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
+	android:foregroundServiceType
+		ADDED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-53
+	android:name
+		ADDED from [:location] /Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ahmed-hamed/.gradle/caches/transforms-3/eb870d180274bc69a097957830f91d7e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a7b0b39ab38e3ab3255b657655e6427a/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/e44e6d092fec360a4736bf1491609eb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/ahmed-hamed/.gradle/caches/transforms-3/a2be56d73df6676e69df21b7dfa1fe03/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+permission#com.example.seven_rakeb_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.seven_rakeb_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/ahmed-hamed/.gradle/caches/transforms-3/f4aafcb6fe35c28ca4efcf9974f14a30/transformed/core-1.10.1/AndroidManifest.xml:26:22-94

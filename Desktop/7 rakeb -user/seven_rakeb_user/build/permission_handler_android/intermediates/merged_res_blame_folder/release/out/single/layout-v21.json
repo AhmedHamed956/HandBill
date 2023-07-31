@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/permission_handler_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/8a2e74e3f98e846f0780ad1b6ff8554b/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/permission_handler_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/8a2e74e3f98e846f0780ad1b6ff8554b/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/permission_handler_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/8a2e74e3f98e846f0780ad1b6ff8554b/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ahmed-hamed/Desktop/7 rakeb -user/seven_rakeb_user/build/permission_handler_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ahmed-hamed/.gradle/caches/transforms-3/8a2e74e3f98e846f0780ad1b6ff8554b/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
